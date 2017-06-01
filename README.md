@@ -6,3 +6,6 @@ All ratings are for either 2016 or 2016-17 seasons depening on whether it's a su
 All ratings are for country's top soccer league unless specified otherwise.
 
 For leagues with play-offs, the coefficents are based only on the regular season.
+
+# to do
+columns for league name, country, continent, sport, nr of teams, nr of games, playoffs(t/f).
